@@ -16,7 +16,7 @@ Both will copy the number to your clipboard and automatically paste to your fron
     Option + Command + Control + S
 
 ## Valid Numbers
-If you want to get a specific card type's number you can invoke Alfred search box and type one of the following commands. Each one will give you one of two random valid credit card numbers for that card type, copy it to your clipboard and try to paste into your front most application.
+If you want to get a specific card type's number you can invoke the Alfred search box and type one of the following commands. Each one will give you one of two random valid credit card numbers for that card type, copy it to your clipboard and try to paste into your front most application.
 
 ### Visa
     stripe visa
@@ -44,7 +44,7 @@ If you want to get a specific card type's number you can invoke Alfred search bo
     stripe
 
 ## Error Numbers
-If you want to test specific error response, you can do that to. Same process as above, will copy to clipboard as well as attempt to paste to front most app.
+If you want to test specific error responses, you can do that to. Same process as above, will copy to clipboard as well as attempt to paste to front most app.
 
 ### Address & Zip Code Failure
     stripe address zip
