@@ -1,8 +1,11 @@
 If you are working with Stripe and like me, I never remember the test credit card numbers. I always have to look them up. Look no more.
 
-This extension will assign a credit card number to your clipboard and automatically paste to your front most application (not Alfred). That means if you are testing you can press a key command to get a random successful or failure Stripe number.
+This extension will assign a credit card number to your clipboard and automatically paste to your front most application (not Alfred). That means if you are testing you place your cursor at your input field, press a key command and get a random successful or failure Stripe number.
 
 You can also get exactly the number you would like by invoking Alfred rather than the hotkeys so if you want to test CVC failure you can, Discover Card, you can, etc.
+
+## Quick Video
+<iframe width="560" height="315" src="//www.youtube.com/embed/-wWHEIG-cwU" frameborder="0" allowfullscreen></iframe>
 
 ## Hotkeys
 Both will copy the number to your clipboard and automatically paste to your front most window. So just highlight your form field and press one of the hotkeys below.
