@@ -77,5 +77,5 @@ If you want to test specific error response, you can do that to. Same process as
 
 ## Change Log
 
-#### July 2, 2013
+#### 1.0.0 - July 2, 2013
 - Initial Release
