@@ -22,19 +22,15 @@ If you want to get a specific card type's number you can invoke the Alfred searc
     stripe visa
 
 ### Mastercard
-    stripe mc
     stripe mastercard
 
 ### American Express
-    stripe amex
     stripe american express
 
 ### Discover Card
-    stripe disc
     stripe discover
 
 ### Diner's Club
-    stripe diner
     stripe diner's club
 
 ### JCB
