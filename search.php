@@ -42,7 +42,7 @@ elseif ($query == 'fail') {
     print $fails[array_rand($fails)];
 }
 else {
-   print $numbers[array_rand($numbers)][$rand];
+    print $numbers[array_rand($numbers)][$rand];
 }
 
 
