@@ -44,4 +44,3 @@ elseif ($query == 'fail') {
 else {
     print $numbers[array_rand($numbers)][$rand];
 }
-4242424242424242510510510510510040128888888818813566002020360505
