@@ -4,8 +4,7 @@ This extension will assign a credit card number to your clipboard and automatica
 
 You can also get exactly the number you would like by invoking Alfred rather than the hotkeys so if you want to test CVC failure you can, Discover Card, you can, etc.
 
-## Quick Video
-<iframe width="560" height="315" src="//www.youtube.com/embed/-wWHEIG-cwU" frameborder="0" allowfullscreen></iframe>
+#### [Quick Video](http://youtu.be/-wWHEIG-cwU)
 
 ## Hotkeys
 Both will copy the number to your clipboard and automatically paste to your front most window. So just highlight your form field and press one of the hotkeys below.
