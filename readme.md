@@ -75,6 +75,9 @@ If you want to test specific error responses, you can do that to. Same process a
 
 ## Change Log
 
+#### 1.0.2 - July 2, 2013
+- Fixed search.php example
+
 #### 1.0.1 - July 2, 2013
 - Added autocomplete feature for commands
 
