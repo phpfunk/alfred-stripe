@@ -20,7 +20,7 @@ $fails = array(
     'processing'  => '4000000000000119'
 );
 
-$query   = trim(strtolower('{query}'));
+$query   = trim(strtolower("{query}"));
 $find    = array('mc', 'disc', 'diner\'s club','american express');
 $replace = array('mastercard', 'discover', 'diner', 'amex');
 $query   = str_replace($find, $replace, $query);
@@ -44,5 +44,4 @@ elseif ($query == 'fail') {
 else {
     print $numbers[array_rand($numbers)][$rand];
 }
-
-
+4242424242424242510510510510510040128888888818813566002020360505
